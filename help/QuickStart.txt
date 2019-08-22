@@ -1,0 +1,31 @@
+Gifts and Graces, created by Maureen Heil at the Society of the Propagation of the Faith in the Archdiocese of Boston.  The digital version was created using the Vassel Game Engine by Matt Mawson (matt.mawson@alum.mit.edu).
+
+
+Getting Started
+1. Choose to play online or offline or load a saved game
+2. Choose G&G version (Lent, Advent, Rosary)
+3. Select color to play
+4. Open Map
+5. Drag colored icon to start square
+6. Click Spinner and move the indicated number of squares.
+7. Perform action indicated by square
+8. End your turn
+9. Let the next player choose an icon.
+
+Using Cards
+-The Gifts and Graces cards are located on the game board. The module shuffles them once at game start and every time a card is drawn. 
+-Drawn cards should be placed in the card window of the current player (Red, White, Yellow... etc.)
+-Perform the action indicated by the square and/or card.
+-The game ends when every one has 3 Gifts and 3 Graces cards OR when both Graces and Gifts cards are gone
+-The player with the most cards wins.
+
+The complete Gifts and Graces rules are located under Help > Gifts and Graces Game Rules and Instructions.
+
+
+
+
+
+
+
+
+
